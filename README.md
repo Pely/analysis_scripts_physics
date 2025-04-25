@@ -1,1 +1,1 @@
-# analysis_scripts_physics
+# Scripts for nuclear astrophysics data analysis
